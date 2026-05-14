@@ -12,8 +12,8 @@ Automated e-commerce analytics project that scrapes headphone pricing data from 
 - Visualize pricing trends, brand comparisons, histograms, pie charts, and segmentation insights.
 
 ## Technologies
-Backend/Data Processing: Python, Pandas, BeautifulSoup, Regex
-Data Visualization: Tableau
+- Backend/Data Processing: Python, Pandas, BeautifulSoup, Regex
+- Data Visualization: Tableau
 
 ## Dashboard
 
