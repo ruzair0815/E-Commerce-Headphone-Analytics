@@ -1,5 +1,3 @@
-[Tableau Link](https://public.tableau.com/app/profile/rehma.uzair/viz/E-CommerceHeadphoneAnalyticsDashboard/E-CommerceHeadphoneAnalyticsDashboard?publish=yes)
-
 # Headphone Market & Pricing Analytics Dashboard
 Automated e-commerce analytics project that scrapes headphone pricing data from online retail listings, simulates historical pricing trends, and visualizes market insights through an interactive Tableau dashboard.
 
