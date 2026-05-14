@@ -18,6 +18,5 @@ Data Visualization: Tableau
 ## Dashboard
 
 [Tableau Link](https://public.tableau.com/app/profile/rehma.uzair/viz/E-CommerceHeadphoneAnalyticsDashboard/E-CommerceHeadphoneAnalyticsDashboard?publish=yes)
-## Dashboard Preview
 
 ![Dashboard Screenshot](HeadphoneDashboard.png)
